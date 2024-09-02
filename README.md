@@ -12,12 +12,12 @@ Este proyecto es una guía práctica y colaborativa para aprender a utilizar Git
 
 1. **Clona este repositorio** en tu máquina local:
     ```bash
-    git clone https://github.com/tuusuario/aprende-git-en-equipo.git
+    git clone https://github.com/lospicapixeles/home.git
     ```
 
 2. **Navega al directorio del proyecto:**
     ```bash
-    cd aprende-git-en-equipo
+    cd home
     ```
 
 3. ¡Listo! Ya puedes empezar a explorar y aprender con nosotros. 🎈
