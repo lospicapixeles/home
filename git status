@@ -1,0 +1,128 @@
+[33mcommit f6ccb65b3615118285dcd8113ca21a7bfde0fc10[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdennis[m[33m)[m
+Author: Los Picapixeles <c016oficial@gmail.com>
+Date:   Mon Sep 2 18:02:40 2024 -0500
+
+    Rename Elio.html to elio.html
+
+[33mcommit f4f4f86dfe4f2b3c7fe709bd0761fee140819606[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 17:31:32 2024 -0500
+
+    correccion de rutas
+
+[33mcommit ff1b4a556e6608cf799b2a1397d525abafe3434a[m
+Merge: f4c4f8c 27cf203
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 17:26:32 2024 -0500
+
+    Merge remote-tracking branch 'origin/julio'
+
+[33mcommit 27cf20334d8d0d2e4c3bf1ff4ae7b3681708fbca[m[33m ([m[1;31morigin/Julio[m[33m)[m
+Author: JulioAyma <74031847@continental.edu.pe>
+Date:   Mon Sep 2 17:20:38 2024 -0500
+
+    mi página
+
+[33mcommit f4c4f8c56edcddada1541ad1a91c504fb3b740c6[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 17:07:08 2024 -0500
+
+    branch de ronaldo2
+
+[33mcommit 525b824440c5c5e3e3ab4c5ec47559b59b8d396f[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 17:02:20 2024 -0500
+
+    branch de ronaldo2
+
+[33mcommit a8cfebe959af3b55103ad20fd8a4aaa297a6790f[m
+Merge: d7e1d59 bfddfa3
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 17:00:14 2024 -0500
+
+    branch de ronaldo
+
+[33mcommit d7e1d59006f3f393d03c38b3b7d2ae03a50b968e[m
+Merge: 97acf1e d2183b6
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 16:55:16 2024 -0500
+
+    Merge branch 'Elio'
+
+[33mcommit d2183b6080a128ad3b20f0991e121b2549a6fe2a[m[33m ([m[1;31morigin/Elio[m[33m)[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 16:53:43 2024 -0500
+
+    mi avance
+
+[33mcommit bfddfa35c142a4ed42ff301b370a888c36366cb8[m
+Author: ronaldo <72111413@continental.edu.pe>
+Date:   Mon Sep 2 16:52:43 2024 -0500
+
+    tercer commit
+
+[33mcommit 2b5382e0e42931f42259007af71723c26dacbe66[m
+Author: ronaldo <72111413@continental.edu.pe>
+Date:   Mon Sep 2 16:50:10 2024 -0500
+
+    segundo commit
+
+[33mcommit 3eecdfb9af92d31da6967963c8a2c9d7f98bae0e[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 10:12:48 2024 -0500
+
+    configuracion de rutas
+
+[33mcommit 97acf1e532cc31f68e736aa057fe4a4c6df816ae[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 10:05:12 2024 -0500
+
+    update README
+
+[33mcommit 20d108b8c36cf64ef3e1de25fc9cbb1c3b87f2b5[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 10:01:50 2024 -0500
+
+    Add README
+
+[33mcommit 16bd78ada3e781ee0cc20719792497f8cd909d16[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Mon Sep 2 09:53:22 2024 -0500
+
+    cambios para hacer merge test
+
+[33mcommit ad3f992e647e8eb7924a7d67992461e9e392c6d2[m
+Author: JulioAyma <74031847@continental.edu.pe>
+Date:   Sat Aug 31 21:55:03 2024 -0500
+
+    mis modificaciones
+
+[33mcommit c68440a3cf1757596ee6bb5a544df296cc0cd084[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Wed Aug 28 15:25:33 2024 -0500
+
+    Eliminar archivos de licencia y de información del template de viajes
+
+[33mcommit 2b5a7d87578eb1eaeabab7c9a91012bc69e28105[m
+Author: Antony <antonyayansi@gmail.com>
+Date:   Wed Aug 28 09:33:56 2024 -0500
+
+    Merge branch 'anthony' into main
+
+[33mcommit 68d6aa72d01c7699e56b49209e7b23bc0f5d1dcd[m[33m ([m[1;31morigin/anthony[m[33m)[m
+Author: Anthony <75389246@continental.edu.pe>
+Date:   Tue Aug 27 22:56:46 2024 -0500
+
+    Primer commit pagina
+
+[33mcommit b100b56a184bcbaf7c4aa704eda54063d0aab701[m
+Author: ronaldo <72111413@continental.edu.pe>
+Date:   Tue Aug 27 18:37:59 2024 -0500
+
+    ronaldo primer commit
+
+[33mcommit 4738602632997c351302ccc163efacfb8f89f6c9[m
+Author: Antony Ayansi <anto@i9bon.local>
+Date:   Tue Aug 27 17:59:12 2024 -0500
+
+    first commit
