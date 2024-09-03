@@ -364,7 +364,7 @@ h1, h2, h3, h4, h5, h6,
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
-  color: #212121;
+  color: #f0e6e6;
 }
 
 h1, .h1 {
@@ -9767,4 +9767,57 @@ h6,
   margin: 0;
   padding: 0;
   list-style-type: none;
+}
+
+.background {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* Estilo del texto encima de la imagen */
+.content {
+  text-align: center;
+  color: white; /* Color del texto en blanco */
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente para mejor legibilidad */
+  padding: 5px;
+  border-radius: 5px;
+}
+
+/* Ajuste de la imagen */
+.adjustable-image {
+  width: var(--image-width, 100%);
+  height: var(--image-height, auto);
+  object-fit: var(--image-fill, contain);
+  max-width: 100%;
+}
+
+.divider {
+  width: 100%;
+  text-align: center;
+  margin: 20px 0;
+  position: relative;
+}
+
+.divider::before {
+  content: '';
+  display: block;
+  width: var(--line-width, 50%); /* Ancho de la línea */
+  height: var(--line-thickness, 5px); /* Grosor de la línea */
+  background-color: var(--line-color, black); /* Color de la línea */
+  margin: 0 auto;
+}
+
+.divider span {
+  position: absolute;
+  top: -15px; /* Ajusta la posición vertical del texto */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white; /* Fondo blanco para que el texto sea legible */
+  padding: 0 10px;
 }
